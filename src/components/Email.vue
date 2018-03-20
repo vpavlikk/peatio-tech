@@ -54,6 +54,13 @@
     // Pushes posts to the server when called.
     methods: {
       postPost () {
+        window.ga('send', {
+          hitType: 'event',
+          eventCategory: 'contact',
+          eventAction: 'click',
+          eventLabel: ''
+        })
+
         axios.post(`/subscribers`, {
           email: this.email,
           company_name: this.company_name
