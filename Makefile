@@ -1,4 +1,4 @@
-VERSION     ?= $(shell cat VERSION)
+VERSION     ?= $(shell git describe --tags --abbrev=0 2>/dev/null || echo latest)
 SERVICE     ?= peatio-tech
 SECRET_NAME ?= $(SERVICE)-secret
 IMAGE       := gcr.io/helios-stage/$(SERVICE):$(VERSION)
