@@ -17,7 +17,7 @@
           </div>
           <div class="pricing-details">
             <h2>Peatio Cloud</h2>
-            <span>From €690 / Month</span>
+            <span>From €1890 / Month</span>
             <div class="pricing-list">
               <ul>
                 <li>&bull; Dedicated cluster</li>
@@ -39,7 +39,7 @@
           </div>
           <div class="pricing-details">
             <h2>Peatio on your Cloud</h2>
-            <span>From €2900 / year</span>
+            <span>From €16900 / year</span>
             <div class="pricing-list">
               <ul>
                 <li>&bull; We deploy on AWS or GCP</li>
@@ -62,7 +62,7 @@
           </div>
           <div class="pricing-details">
             <h2>Custom Development</h2>
-            <span>From €200 / day</span>
+            <span>From €300 / day</span>
             <div class="pricing-list">
               <ul>
                 <li>&bull; Dedicated professional</li>
