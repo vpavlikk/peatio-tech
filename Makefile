@@ -1,7 +1,7 @@
 VERSION     ?= $(shell git describe --tags --abbrev=0 2>/dev/null || echo latest)
 SERVICE     ?= peatio-tech
 SECRET_NAME ?= $(SERVICE)-secret
-IMAGE       := gcr.io/helios-stage/$(SERVICE):$(VERSION)
+IMAGE       := gcr.io/helios-public/$(SERVICE):$(VERSION)
 CHART_NAME  ?= landing
 NAMESPACE   ?= peatio-tech
 
