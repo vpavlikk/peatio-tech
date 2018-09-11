@@ -530,6 +530,7 @@ font-family: Arial;
  -moz-transition: 200ms;
  -o-transition: 200ms;
  transition: 200ms;
+ margin-top: 10px;
 }
 
 .software .btn-action:hover, .software .btn-action:focus,
