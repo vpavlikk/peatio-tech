@@ -17,11 +17,11 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-right index-nav" id="navbar-collapse">
           <ul class="nav navbar-nav">
+            <li><a class="page-scroll" href="#contact">Contact us</a></li>
             <li><a class="page-scroll" href="#services">Services</a></li>
             <li><a class="page-scroll" href="#features">Features</a></li>
             <li><a class="page-scroll" href="#platform">Platform</a></li>
             <li><a class="page-scroll" href="#pricing">Pricing</a></li>
-            <li><a class="page-scroll" href="#contact">Contact us</a></li>
           </ul>
         </div>
       </div>
